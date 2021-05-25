@@ -1,0 +1,3 @@
+[submodule "Three-Template"]
+	path = Three-Template
+	url = https://github.com/MikeZyeman/Three-Template.git
